@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://BuWuZhengYeYangYiNuo.github.io/man</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://BuWuZhengYeYangYiNuo.github.io/man</link></image><lastBuildDate>Sun, 26 Jan 2025 07:14:18 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>男神清单</title><link>https://BuWuZhengYeYangYiNuo.github.io/man</link><description>Blog description</description><copyright>男神清单</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://BuWuZhengYeYangYiNuo.github.io/man</link></image><lastBuildDate>Sun, 26 Jan 2025 16:21:17 +0000</lastBuildDate><managingEditor>男神清单</managingEditor><ttl>60</ttl><webMaster>男神清单</webMaster><item><title>很好看的</title><link>https://BuWuZhengYeYangYiNuo.github.io/man/post/hen-hao-kan-de.html</link><description>![Image](https://github.com/user-attachments/assets/4ca0165d-d840-4df3-910f-c00c7726168b)
+
+![Image](https://github.com/user-attachments/assets/df383536-149e-46be-9491-2454edd2bc2d)
+
+![Image](https://github.com/user-attachments/assets/8c02355b-e3c5-4ac5-860c-00e45430b121)。</description><guid isPermaLink="true">https://BuWuZhengYeYangYiNuo.github.io/man/post/hen-hao-kan-de.html</guid><pubDate>Sun, 26 Jan 2025 07:25:55 +0000</pubDate></item><item><title>好看的</title><link>https://BuWuZhengYeYangYiNuo.github.io/man/post/hao-kan-de.html</link><description>![Image](https://github.com/user-attachments/assets/62585178-3c80-4b40-9598-dbaf543627b9)
+
+![Image](https://github.com/user-attachments/assets/ac68b17f-b312-4eba-ba49-3957f889d989)
+
+![Image](https://github.com/user-attachments/assets/4ef9f72c-629e-463a-aef9-78f5e424fdcb)
+。</description><guid isPermaLink="true">https://BuWuZhengYeYangYiNuo.github.io/man/post/hao-kan-de.html</guid><pubDate>Sun, 26 Jan 2025 07:18:55 +0000</pubDate></item></channel></rss>
